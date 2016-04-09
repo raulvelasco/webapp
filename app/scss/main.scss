@@ -1,0 +1,18 @@
+$background: orange;
+$color: black;
+
+body {
+	background: $background;
+
+	p {
+		color: $color;
+		font-size: 200px;
+
+		a {text-decoration: underline;}
+	}
+}
+
+p {
+	text-transform: uppercase;
+}
+
