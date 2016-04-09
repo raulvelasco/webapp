@@ -1,0 +1,22 @@
+{
+  "name": "webapp",
+  "description": "Plantilla para hacer aplicaciones web",
+  "main": "index.html",
+  "authors": [
+    "Raúl Velasco"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "webapp",
+    "gulp",
+    "sass"
+  ],
+  "homepage": "https://github.com/raulvelasco/webapp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

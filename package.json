@@ -1,0 +1,21 @@
+{
+  "name": "webapp",
+  "version": "0.0.1",
+  "description": "Plantilla para hacer aplicaciones web",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulvelasco/webapp.git"
+  },
+  "keywords": [
+    "webapp",
+    "gulp",
+    "sass"
+  ],
+  "author": "Raúl Velasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raulvelasco/webapp/issues"
+  },
+  "homepage": "https://github.com/raulvelasco/webapp#readme"
+}
